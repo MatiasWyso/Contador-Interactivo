@@ -6,7 +6,7 @@ Esta actividad consiste en crear una aplicación simple de contador interactivo.
 
 ## Instrucciones de uso
 
-Para iniciar las aplicación es necesario seguir los siguientes pasos:
+Para iniciar la aplicación es necesario seguir los siguientes pasos:
  
 Clonar el repositorio 
 ```bash
